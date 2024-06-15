@@ -49,7 +49,7 @@
 .weather-data{
     width: 100%;
     margin-top: 40px;
-    color: white;
+    color: #ffffff;
     display: flex;
     justify-content: space-between;
 }
